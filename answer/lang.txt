@@ -1,0 +1,4 @@
+Bahasa pemrograman yang dikuasai antara lain adalah
+1. Golang
+2. Dart
+3. PHP
